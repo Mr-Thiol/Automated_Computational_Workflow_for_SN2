@@ -1,0 +1,4 @@
+Name,TS_Energy,Imag_Freq,Barrier_kcal_mol,Status
+EtNH2,-0.179112,-17.43,CALC_LATER,Success
+Me2NH,0.854121,-590.29,CALC_LATER,Success
+Me3N,0.359960,-592.18,CALC_LATER,Success
