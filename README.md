@@ -74,7 +74,9 @@ The specific descriptors used in the unified model are defined as follows:
 
 ## 📊 Key Findings
 
-**THE FORMULA**：$$E_a = 297.9 + 933.82 \ Q_N + 17.31 \ N_H + 0.02 \ \kappa_3$$ $(R^2 = 0.9544)$
+**THE FORMULA**：
+
+$E_a = 297.9 + 933.82 \ Q_N + 17.31 \ N_H + 0.02 \ \kappa_3$ $(R^2 = 0.9544)$
 
 1.  **Electronic Dominance**: Generally, stronger electron-donating alkyl groups lower the activation barrier.
 2.  **The "Steric Anomaly"**: $Me_3N$ was identified as a significant outlier. Unlike the flexible $Et_3N$, the rigid methyl groups in $Me_3N$ create a "rigid steric wall," significantly increasing the barrier.
